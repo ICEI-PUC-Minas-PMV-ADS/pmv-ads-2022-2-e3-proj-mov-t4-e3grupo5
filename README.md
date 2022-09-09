@@ -15,6 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Hector Florenca da Silva Mendes
 * Jéssica Raíssa Araújo Oliveira Queiroz Lopes
 * Jonatas Tonin Coelho
+* Júlia Berto Rosa
 
 ## Orientador
 
