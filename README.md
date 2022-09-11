@@ -15,7 +15,7 @@ Fut+ é um aplicativo de notícias esportivas com foco em futebol, com o objetiv
 * Hector Florenca da Silva Mendes
 * Jéssica Raíssa Araújo Oliveira Queiroz Lopes
 * Jonatas Tonin Coelho
-* Júlia Berto Rosa
+* Julia Berto Rosa
 
 ## Orientador
 
