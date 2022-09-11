@@ -74,7 +74,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <hr />
 
-|Gerson Silva      | Ocupação                       | Idade |
+|Rafaela Oliveira     | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
 ||Jornalista Esportivo  |29|
 
