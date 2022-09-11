@@ -41,6 +41,39 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <hr />
 
+|Gerson Silva      | Ocupação                       | Idade |
+|--------------------|--------------------------------|-------|
+|<img src="/docs/img/gerson-silva.jpg" width="100" height="100"/>|Apostador Profissional  |30|
+
+<h4>Motivações:</h4>
+<ul>
+ <li>Gosta de acompanhar perfis e notícias de futebol.</li>
+ <li>Gosta de fazer apostas com o objetivo de ter uma boa renda no futuro.</li>
+ <li>E além de ter uma boa renda, ele tem o propósito de comprar um novo carro.</li>
+</ul>
+ 
+ <h4>Frustações:</h4>
+<ul>
+ <li>Gerson não gosta de perder dinheiro, mesmo sendo apostador. Por este motivo ele acompanha tudo sobre esportes que puder para fazer boas apostas</li>
+ <li>Ele odeia ter que ficar entrando em vários locais para obter as informações dos jogos que ele quer.</li>
+</ul>
+ 
+<h4>Hobbies, História:</h4>
+<ul>
+ <li>Assistir jogos</li>
+ <li>Ler sobre esportes</li>
+ <li>Ver filmes</li>
+</ul>
+ 
+<h4>Aplicativos:</h4>
+<ul>
+ <li>WhatsApp</li>
+ <li>Instagram</li>
+ <li>Google News</li>
+</ul>
+
+<hr />
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
