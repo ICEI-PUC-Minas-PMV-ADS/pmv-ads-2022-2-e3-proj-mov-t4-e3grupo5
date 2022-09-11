@@ -76,7 +76,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |Rafaela Oliveira     | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
-|<img src="docs/img/RafaelaOliveira.jpg" width="100" height="100"/>|Jornalista Esportivo  |29|
+|<img src="/docs/img/RafaelaOliveira.jpg" width="100" height="100"/>|Jornalista Esportivo  |29|
 
 <h4>Motivações:</h4>
 <ul>
