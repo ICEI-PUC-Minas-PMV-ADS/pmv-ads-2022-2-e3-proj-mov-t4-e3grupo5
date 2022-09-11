@@ -37,13 +37,8 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A frase popular “o futebol é um esporte para todos” se aplica não só para descrevê-lo, mas também para essa aplicação. Fut+ é um aplicativo que tem como principal público os fãs de futebol!
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Fut+ busca levar informações de futebol para diversos perfis de usuários, sejam amantes do esporte, torcedores ou até mesmo analistas profissionais. O objetivo é alcançar o maior público possível, sem excluir nenhum tipo de grupo, levando inclusão e acessibilidade aos usuários.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Por se tratar de um aplicativo de notícias, temos por definição um público-alvo de 14-75anos, considerando quesitos como a capacidade de acesso à informação, leitura e interesses.
