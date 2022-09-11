@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |José Antônio       | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
-|<img src="/docs/img/Jose.jpg" width="100" height="100"/>|Aposentado  |71|
+|<img src="/docs/img/jose.jpg" width="100" height="100"/>|Aposentado  |71|
 
 <h4>Motivações:</h4>
 <ul>
