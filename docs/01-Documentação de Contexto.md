@@ -28,12 +28,22 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Um dos mercados que mais cresceram nos últimos anos e principalmente após a pandemia foi o mercado de apostas esportivas. Devido às medidas tomadas para combater o covid-19 vários estabelecimentos ao público, principalmente de entretenimento acabaram sendo fechados o que levou o público interessado por apostas a buscar novos meios de acesso ao tipo de conteúdo, descobrindo as plataformas online. 
+
+De acordo com o site gente.globo.com, no Brasil, o mercado de apostas esportivas já alcançou cerca de R$ 7 bilhões só em 2020 e devido a pandemia estes números vêm aumentando, já que o acesso a estas plataformas estão se tornando o meio de entretenimento para os apaixonados por esportes.
+
+Devido a esse crescimento muitas casas de apostas online surgiram, cada uma com suas vantagens e desvantagens, algumas famosas são: Bet365 e 1xbet. Mas nem sempre estas plataformas são simples para os apostadores ou aqueles que querem apenas acompanhar informações sobre os jogos. 
+
+Outro motivo que aumentará a busca por este tipo de informações é a Copa do Mundo que acontecerá neste ano de 2022. E isso influenciará não apenas no público apostador, mas também no público mais interessado em atualizações sobre os jogos como próximos jogos e resultados.
+
+Por este motivo o Fut+ concentrando as informaçẽos sobre futebol em um único lugar pretender fornecer de forma simplificada as informações que este público deseja, podendo ter melhores ideias para suas apostas ou acompanhar os seus times preferidos.
+
+<!-- Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/) -->
 
 ## Público-Alvo
 
