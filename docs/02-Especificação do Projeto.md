@@ -8,19 +8,38 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+|José Antônio       | Ocupação                       | Idade |
+|--------------------|--------------------------------|-------|
+|<img src="/docs/img/Jose.jpg" width="100" height="100"/>|Aposentado  |71|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+<h4>Motivações:</h4>
+<ul>
+ <li>Ele gosta principalmente de acompanhar as notícias de futebol, pois adora conversar sobre isso com seu neto Caio.</li>
+ <li>Como aposentado, praticar seus hobbies são um importante passatempo.</li>
+ <li>José gostaria de poder ter mais informações sobre seu time e ter acesso as notícias esportivas a qualquer momento.</li>
+ <li>Aprendeu a usar o Whatsapp pra conversar com Caio e está sempre tentando puxar conversa com o neto.</li>
+</ul>
+ 
+ <h4>Frustações:</h4>
+<ul>
+ <li>José têm dificuldade em usar os aplicativos atuais de notícias esportivas, pois possuem várias sessões e isso acaba os tornando complexos para ele. </li>
+ <li>Ele não consegue filtrar apenas notícias de futebol e do seu time de coração, por isso acaba ficando preso somente ao conteúdo que a TV aberta oferece.</li>
+</ul>
+ 
+<h4>Hobbies, História:</h4>
+<ul>
+ <li>Ouvir rádio</li>
+ <li>Ler</li>
+ <li>Assistir futebol</li>
+</ul>
+ 
+<h4>Aplicativos:</h4>
+<ul>
+ <li>WhatsApp</li>
+ <li>FlashScore</li>
+</ul>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+<hr />
 
 ## Histórias de Usuários
 
