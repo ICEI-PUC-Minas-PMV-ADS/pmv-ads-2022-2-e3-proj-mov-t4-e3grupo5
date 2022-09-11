@@ -74,6 +74,39 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <hr />
 
+|Gerson Silva      | Ocupação                       | Idade |
+|--------------------|--------------------------------|-------|
+|"![RafaelaOliveira](https://user-images.githubusercontent.com/91639148/189550577-8d877d91-7ab9-49a1-ab72-f996c681791f.jpg)" width="100" height="100"/>|Jornalista Esportivo  |29|
+
+<h4>Motivações:</h4>
+<ul>
+ <li>Trabalha com informação, precisa estar sempre ataulizada rapidamente.</li>
+ <li>Gostaria de ter um  aplicativo no smartphone, por ser fácil de levar consigo a todo lugar.</li>
+ <li>Seria útil ter um local com várias notícias sobre o futebol, por ser ótimo para visitar e relembrar..</li>
+</ul>
+ 
+ <h4>Frustações:</h4>
+<ul>
+ <li>Nem sempre as notícias que encontra possuem fontes</li>
+ <li>Para encontrar notícias rapidamente, muitas vezes só tem a opção de pesquisar, e não divisões sobre cada tópico.</li>
+</ul>
+ 
+<h4>Hobbies, História:</h4>
+<ul>
+ <li>Gosta de ler, no geral.</li>
+ <li>Cozinhar.</li>
+</ul>
+ 
+<h4>Aplicativos:</h4>
+<ul>
+ <li>Twitter</li>
+ <li>Facebook</li>
+ <li>Folha de S.Paulo</li>
+</ul>
+
+<hr />
+
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
