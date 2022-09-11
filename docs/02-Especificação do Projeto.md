@@ -76,7 +76,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |Gerson Silva      | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
-|"![RafaelaOliveira](https://user-images.githubusercontent.com/91639148/189550577-8d877d91-7ab9-49a1-ab72-f996c681791f.jpg)" width="100" height="100"/>|Jornalista Esportivo  |29|
+||Jornalista Esportivo  |29|
 
 <h4>Motivações:</h4>
 <ul>
