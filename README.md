@@ -8,6 +8,8 @@
 
 Fut+ é um aplicativo de notícias esportivas com foco em futebol, com o objetivo de levar informação sobre os principais times e campeonatos, assim como os resultados de jogos, partidas que irão acontecer e demais informações que todo fã do esporte preza em ter de forma descomplicada e acessível.
 
+<img src="/docs/img/Logo.png"/>
+
 ## Integrantes
 
 * Gabriel Eduardo Palhares
