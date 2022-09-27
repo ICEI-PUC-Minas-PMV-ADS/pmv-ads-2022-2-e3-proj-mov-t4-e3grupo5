@@ -1,6 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O futebol é o esporte mais popular do mundo, gera milhares de seguidores, domina lista de times mais lucrativos do mundo e de atletas mais bem pagos. Com uma enorme legião de fãs no Brasil, o futebol é uma parte importante da cultura, sendo reconhecido mundialmente por essa paixão e atletas talentosos. A procura por informações acerca do tema é grande por diferentes motivos - grande torcida nacional, crescente número de apostas em sites especializados e campeonatos que recebem cada vez mais atenção. 
+
+Sendo assim, o objetivo do Fut+ é ser um espaço onde todos os interessados por futebol consigam encontrar informações que precisam de qualquer lugar que estiverem pelo celular, e de modo mais rápido que o convencional.
+
+<!-- Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto. -->
 
 ## Problema
 
@@ -19,12 +23,18 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é desenvolver uma aplicação para atender as dúvidas e pesquisas das últimas notícias sobre futebol para todos os interessados, independente do motivo ou time, de modo prático e acessível.
+
+O objetivo específico é ter divisões sobre os temas e notícias bem definidas, para que seja esperado o usuário encontrar o que deseja rapidamente. Ele poderá:
+> encontrar ícones para identificar de forma visual.
+> pesquisar o que deseja com palavras-chave.
+
+<!-- Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/) -->
 
 ## Justificativa
 
