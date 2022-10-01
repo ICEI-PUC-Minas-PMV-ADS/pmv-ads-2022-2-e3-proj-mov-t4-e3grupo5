@@ -1,10 +1,15 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+A arquitetura de solução como o próprio nome já diz é responsável por criar soluções com base nas necessidades da empresa. Também pode ser utilizada para alinhar novas soluções com uma arquitetura que já existe.
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A arquitetura para a solução que iremos tratar será basicamente o desenvolvimento de um aplicativo híbrido (Aplicativo que roda código web e nativo) que se comunicará com uma API pública, qual irá trazer informações úteis para o usuário.
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+Todo o código será armazenado no GitHub para que todo o processo seja acompanhado e revertido, se preciso for.
+
+Não teremos necessidade de utilizar um banco de dados para armazenamento de informações, já que o foco é apresentação de informações públicas, por este motivo não utilizaremos um banco de dados, apenas nos comunicaremos com a API e apresentaremos as informações para o usuário.
+
+... { talvez seja necessário a interface pronta para falar um pouco de como a aplicação será } ...
+
 
 ## Diagrama de Classes
 
