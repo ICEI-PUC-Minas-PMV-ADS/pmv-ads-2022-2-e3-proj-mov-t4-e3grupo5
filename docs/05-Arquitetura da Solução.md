@@ -42,9 +42,18 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As tecnologias utilizadas para esta solução são: 
+ - React Native (Framework baseado no React, desenvolvido pela equipe do Facebook, que possibilita o desenvolvimento de aplicações mobile híbrida)
+ - JavaScript 
+ - CSS
+ - API noticias esporte
+ - Snack Expo (https://snack.expo.dev/)
+ - Visual Studio Code
+ - Dispositivo real para testes
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Abaixo tem uma apresentação de como as tecnologias se relacionam:
+
+<img src="./img/tech-working-flow.png"/>
 
 ## Hospedagem
 
