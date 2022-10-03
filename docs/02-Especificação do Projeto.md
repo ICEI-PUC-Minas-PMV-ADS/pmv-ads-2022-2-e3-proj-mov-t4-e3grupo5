@@ -108,7 +108,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |Gustavo Cerati      | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
-|<img src="docs/img/GustavoCerati.jpg" width="100" height="100"/>|Estudante  |14|
+|<img src="/docs/img/GustavoCerati.jpg" width="100" height="100"/>|Estudante  |14|
 
 <h4>Motivações:</h4>
 <ul>
@@ -140,7 +140,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |Elaine Santos     | Ocupação                       | Idade |
 |------------------|--------------------------------|-------|
-|<img src="docs/img/ElaineSantos.jpg" width="100" height="100"/>|Motorista de aplicativo  |43|
+|<img src="/docs/img/ElaineSantos.jpg" width="100" height="100"/>|Motorista de aplicativo  |43|
 
 <h4>Motivações:</h4>
 <ul>
