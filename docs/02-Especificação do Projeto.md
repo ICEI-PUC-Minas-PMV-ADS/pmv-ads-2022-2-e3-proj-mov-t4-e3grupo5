@@ -8,7 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|José Antônio       | Ocupação                       | Idade |
+|José Antônio        | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
 |<img src="/docs/img/jose.jpg" width="100" height="100"/>|Aposentado  |71|
 
@@ -41,7 +41,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <hr />
 
-|Gerson Silva      | Ocupação                       | Idade |
+|Gerson Silva        | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
 |<img src="/docs/img/gerson-silva.jpg" width="100" height="100"/>|Apostador Profissional  |30|
 
@@ -74,7 +74,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <hr />
 
-|Rafaela Oliveira     | Ocupação                       | Idade |
+|Rafaela Oliveira    | Ocupação                       | Idade |
 |--------------------|--------------------------------|-------|
 |<img src="/docs/img/RafaelaOliveira.jpg" width="100" height="100"/>|Jornalista Esportivo  |29|
 
@@ -82,7 +82,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 <ul>
  <li>Trabalha com informação, precisa estar sempre atualizada rapidamente.</li>
  <li>Gostaria de ter um  aplicativo no smartphone, por ser fácil de levar consigo a todo lugar.</li>
- <li>Seria útil ter um local com várias notícias sobre o futebol, por ser ótimo para visitar e relembrar..</li>
+ <li>Seria útil ter um local com várias notícias sobre o futebol, por ser ótimo para visitar e relembrar.</li>
 </ul>
  
  <h4>Frustações:</h4>
@@ -106,16 +106,80 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <hr />
 
+|Gustavo Cerati      | Ocupação                       | Idade |
+|--------------------|--------------------------------|-------|
+|<img src="docs/img/GustavoCerati.jpg" width="100" height="100"/>|Estudante  |14|
+
+<h4>Motivações:</h4>
+<ul>
+ <li>Começou a acompanhar o esporte por ver seus colegas conversarem sobre a copa do mundo e agora se mantém atualizado.</li>
+ <li>Lê as notícias antes de ir pra escola, por dormir cedo e prefere que seja rápido o seu lugar de pesquisa.</li>
+ <li>Gostaria de ver apenas notícias sobre futebol, porque não está interessado em outros assuntos atualmente.</li>
+</ul>
+ 
+ <h4>Frustações:</h4>
+<ul>
+ <li>Se o site que Gustavo pesquisa for muito difícil para carregar por anúncios e falta de perfomance, seu celular "trava" por ser um modelo mais antigo.</li>
+ <li>Normalmente precisa de duas fontes de pesquisa para encontrar tudo que gostaria, e por isso escolheria um app onde há tudo reunido.</li>
+</ul>
+ 
+<h4>Hobbies, História:</h4>
+<ul>
+ <li>Gosta de passear com os amigos.</li>
+ <li>Jogar videogame.</li>
+</ul>
+ 
+<h4>Aplicativos:</h4>
+<ul>
+ <li>Whatsapp</li>
+ <li>Instagram</li>
+ <li>Tiktok</li>
+</ul>
+
+<hr />
+
+|Elaine Santos     | Ocupação                       | Idade |
+|------------------|--------------------------------|-------|
+|<img src="docs/img/ElaineSantos.jpg" width="100" height="100"/>|Motorista de aplicativo  |43|
+
+<h4>Motivações:</h4>
+<ul>
+ <li>Gosta de futebol, mas as vezes trabalha a noite e não consegue acompanhar os jogos.</li>
+ <li>Passa a maior parte do dia fora de casa e pesquisa sobre seu time quando sobra tempo.</li>
+ <li>Ter um aplicativo/ser fixado na tela inicial seria mais satisfatório do que pesquisar toda vez.</li>
+</ul>
+ 
+ <h4>Frustações:</h4>
+<ul>
+ <li>Ela gasta mais dados de internet do que gostaria quando está fora de casa e precisa acessar notícias sobre futebol.</li>
+ <li>Gostaria de receber notificações no celular sobre as notícias.</li>
+</ul>
+ 
+<h4>Hobbies, História:</h4>
+<ul>
+ <li>Marcenaria.</li>
+ <li>Academia.</li>
+</ul>
+ 
+<h4>Aplicativos:</h4>
+<ul>
+ <li>Facebook</li>
+ <li>LinkedIn</li>
+</ul>
+
+<hr />
 
 ## Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ...  `FUNCIONALIDADE`  |PARA ...  `MOTIVO/VALOR`               |
-|--------------------|------------------------------------|----------------------------------------|
-| José Antônio       | Acompanhar as notícias de futebol.            |  Me informar e comentar com meu neto.              |
+|EU COMO... `PERSONA`| QUERO/PRECISO ...  `FUNCIONALIDADE`                               |PARA ...  `MOTIVO/VALOR`                |
+|--------------------|-------------------------------------------------------------------|----------------------------------------|
+| José Antônio       | Acompanhar as notícias sobre futebol.                             | Me informar e comentar com meu neto.                           |
 | Gerson Silva       | Verificar o resultado dos jogos e o desempenho de cada time.      | Saber quais times têm mais chance de vencer os próximos jogos. |
-| Rafaela Oliveira   | Ter a fonte de cada notícia que encontra | Poder confiar e usar para o trabalho sem receio. | 
+| Rafaela Oliveira   | Ter a fonte de cada notícia que encontra.                         | Poder confiar e usar para o trabalho sem receio.               | 
+| Gustavo Cerati     | Uma pesquisa que não tenha anúncios e que não seja lenta.         | Conseguir ter uma melhor experiência ao fazer uma pesquisa.    |
+| Elaine Santos      | Poder deixar fixado na tela inicial ou conseguir baixar o app.    | Ser prático e gastar menos dados de internet.                  | 
 
 <!-- Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
