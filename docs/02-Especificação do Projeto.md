@@ -80,7 +80,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <h4>Motivações:</h4>
 <ul>
- <li>Trabalha com informação, precisa estar sempre ataulizada rapidamente.</li>
+ <li>Trabalha com informação, precisa estar sempre atualizada rapidamente.</li>
  <li>Gostaria de ter um  aplicativo no smartphone, por ser fácil de levar consigo a todo lugar.</li>
  <li>Seria útil ter um local com várias notícias sobre o futebol, por ser ótimo para visitar e relembrar..</li>
 </ul>
@@ -109,21 +109,22 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ...  `FUNCIONALIDADE`  |PARA ...  `MOTIVO/VALOR`               |
 |--------------------|------------------------------------|----------------------------------------|
-|**José** ***(Usuário)***  | Ver os resultados dos jogos           | Me informar e comentar com meu neto               |
-|**José** ***(Usuário)***       | Ver as datas dos próximos jogos                 | Me lembrar de quando assistir as partidas |
+| José Antônio       | Acompanhar as notícias de futebol.            |  Me informar e comentar com meu neto.              |
+| Gerson Silva       | Verificar o resultado dos jogos e o desempenho de cada time.      | Saber quais times têm mais chance de vencer os próximos jogos. |
+| Rafaela Oliveira   | Ter a fonte de cada notícia que encontra | Poder confiar e usar para o trabalho sem receio. | 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+<!-- Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 > - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/) -->
 
 ## Modelagem do Processo de Negócio 
 
