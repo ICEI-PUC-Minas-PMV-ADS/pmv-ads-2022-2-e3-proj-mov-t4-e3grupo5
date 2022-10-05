@@ -175,11 +175,13 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ...  `FUNCIONALIDADE`                               |PARA ...  `MOTIVO/VALOR`                |
 |--------------------|-------------------------------------------------------------------|----------------------------------------|
-| José Antônio       | Acompanhar as notícias sobre futebol.                             | Me informar e comentar com meu neto.                           |
-| Gerson Silva       | Verificar o resultado dos jogos e o desempenho de cada time.      | Saber quais times têm mais chance de vencer os próximos jogos. |
-| Rafaela Oliveira   | Ter a fonte de cada notícia que encontra.                         | Poder confiar e usar para o trabalho sem receio.               | 
-| Gustavo Cerati     | Uma pesquisa que não tenha anúncios e que não seja lenta.         | Conseguir ter uma melhor experiência ao fazer uma pesquisa.    |
-| Elaine Santos      | Poder deixar fixado na tela inicial ou conseguir baixar o app.    | Ser prático e gastar menos dados de internet.                  | 
+| Eu, José Antônio, como usuário do aplicativo, | quero acompanhar as notícias mais recentes sobre futebol | para me informar e comentar com meu neto. |
+| Eu, Gerson Silva, como usuário do aplicativo, | quero verificar o resultado dos jogos e o desempenho de cada time | para saber quais times têm mais chance de vencer os próximos jogos. |
+| Eu, Rafaela Oliveira, como usuária do aplicativo | preciso ter a fonte de cada notícia que encontro | para confiar e usar em meu trabalho sem receio. |
+| Eu, Rafaela Oliveira, como usuária do aplicativo | quero ter divisões sobre cada tópico entre as notícias | para encontrar o que desejo mais rápido. | 
+| Eu, Gustavo Cerati, como usuário do aplicativo | quero fazer uma pesquisa que não tenha anúncios e que não seja lenta | para conseguir ter uma melhor experiência em meu smartphone. |
+| Eu, Elaine Santos, como usuária do aplicativo | quero deixar fixado na tela inicial ou conseguir baixar o app | para ser prático e gastar menos dados de internet. |
+| Eu, Elaine Santos, como usuária do aplicativo | quero receber notificações das últimas notícias | para saber o que está acontecendo antes de entrar no app. |
 
 <!-- Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
