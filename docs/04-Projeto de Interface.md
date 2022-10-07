@@ -21,6 +21,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
+Wireframes do projeto:
+# Tela de Notícias:
+Tela inicial do aplicativo, introduzindo algumas notícias do mundo do esporte ao usuário <br>
+<img src="/telas/tela_noticias.png" alt="My cool logo"/>
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
