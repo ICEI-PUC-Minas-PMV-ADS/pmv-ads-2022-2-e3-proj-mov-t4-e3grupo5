@@ -24,7 +24,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 Wireframes do projeto:
 # Tela de Notícias:
 Tela inicial do aplicativo, introduzindo algumas notícias do mundo do esporte ao usuário <br>
-<img src="/telas/tela_noticias.png" alt="My cool logo"/>
+<img src="/Telas/tela_noticias.png" alt="Tela de Notícias"/>
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
