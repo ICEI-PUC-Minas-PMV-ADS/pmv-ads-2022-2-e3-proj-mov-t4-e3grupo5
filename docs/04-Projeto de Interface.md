@@ -24,11 +24,28 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 Wireframes do projeto:
 # Tela de Notícias:
 Tela inicial do aplicativo, introduzindo algumas notícias do mundo do esporte ao usuário <br>
-<img src="/Telas/tela_noticias.png" alt="Tela de Notícias"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/51675838/194711739-9d32a77e-0a56-4c32-8116-b6c5d8efddc8.png" alt="Tela de Notícias"/>
+</div>
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+# Tela de Placar:
+Nesta tela, o aplicativo apresentará ao usuário os placares das principais ligas de futebol pelo mundo. 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/51675838/194711967-88182ebd-4cf9-486c-9796-62b8978ea03c.png" alt="Tela de Placar"/>
+</div>
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+# Tela de Favoritos:
+Em uma versão final do aplicativo, a ideia é essa tela apresentar resultados e notícias de jogos e times mais buscados pelos usuários <br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/51675838/194712108-bfc5cc10-0a44-4230-b279-c4756b821278.png" alt="Tela de Favoritos"/>
+</div>
+
+# Tela de Ligas:
+Nesta tela, o usuário poderá visualizar as principais ligas do futebol mundial <br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/51675838/194712325-515409f4-79ab-4d21-a56b-a3c01e8b59ed.png" alt="Tela de Ligas"/>
+</div>
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
