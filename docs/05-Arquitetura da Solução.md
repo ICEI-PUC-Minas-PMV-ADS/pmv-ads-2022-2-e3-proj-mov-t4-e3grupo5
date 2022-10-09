@@ -8,17 +8,29 @@ Todo o código será armazenado no GitHub para que todo o processo seja acompanh
 
 Não teremos necessidade de utilizar um banco de dados para armazenamento de informações, já que o foco é apresentação de informações públicas, por este motivo não utilizaremos um banco de dados, apenas nos comunicaremos com a API e apresentaremos as informações para o usuário.
 
-... { talvez seja necessário a interface pronta para falar um pouco de como a aplicação será } ...
+A aplicação funcionará como um site de notícias, com o foco em futebol. O usuário terá acesso inicialmente a homescreen da aplicação, onde terá diretamente acesso a várias notícias de futebol e várias opções de acesso como ver placares, resultados dos últimos jogos, ver os times favoritos dele e ligas de futebol. Entrando nos favoritos dele, terá uma lista de todos os seus favoritos, podendo ainda remove-los se desejar. Ele pode ainda clicar sobre um time para saber mais sobre o time, como uma descrição, história, etc.
+
+O foco da aplicação é fornecer informações suficientes para ele acompanhar os jogos com base na sua preferência e resultados que na maioria das vezes é o foco do usuário.
 
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+O diagrama de classes ilustra graficamente como cada uma das classes estão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
+No nosso caso temos algumas classes, como mostra o diagrama abaixo.
+
+A classe de notícia que se relaciona com os placar, pois sem placar não tem notícia.
+A classe de placar que está relacionada com a classe de time, pois é nela que terá informações dos times.
+A classe de time que está relacionada com várias classes.
+A classe de favorito que está relacionada com a classe de time, podendo adicionar novos times ou remover.
+A classe de liga, que está relacionada também com a classe de time.
+
+<!-- As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
 > - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml) -->
+
+<img src="./img/class-diagram.png"/>
 
 <!-- ## Modelo ER
 
