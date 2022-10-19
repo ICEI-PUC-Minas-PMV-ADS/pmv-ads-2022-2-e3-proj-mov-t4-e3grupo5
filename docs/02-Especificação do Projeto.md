@@ -202,9 +202,12 @@ Mesmo com tantos sites de notícias, a maioria deles possuem anúncios, o que to
 
 <!-- Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. -->
 
-### Descrição Geral da Proposta
+### Análise do ambiente externo
 
 Em nossas consideração sobre as dificuldades que possam ser encontradas, é esperado que a primeira versão do software ainda não esteja na sua melhor velocidade de execução, e por isso vamos melhorar com os testes que faremos focados nisso. Assim como, procurar uma maneira para que nenhuma notícia chegue à aplicação sem fonte. Além disso, iremos planejar ainda um bom algoritmo para levar as notícias aos locais certos. É importante que nossa implementação não falhe em se manter acessível, e que não falte as informações sobre futebol buscadas pelos usuários.
+
+
+### Descrição Geral da Proposta
 
 <!-- Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias. -->
 
