@@ -198,7 +198,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 Mesmo com tantos sites de notícias, a maioria deles possuem anúncios, o que torna a experiência do usuário desagradável pelo uso de dados, por gerar uma poluição visual e desviar atenção de uma leitura. Além de muitas pessoas não possuirem um aplicativo, e sim pesquisar na internet sobre as notícias, visto que muitas vezes os aplicativos e sites são de notícias em geral.
 
-<img src="/docs/img/situacaoAtual.drawio.png"/>
+<img src="/docs/img/bpmn-situacaoatual.drawio.png"/>
 
 <!-- Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. -->
 
