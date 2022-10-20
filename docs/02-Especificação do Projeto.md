@@ -2,7 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+O grupo se preocupou em pesquisar e dialogar sobre as principais dores que os usuários poderiam sofrer, para assim registrar e resolvê-los de forma assertiva, fazendo do Fut+ uma plataforma confortável. 
+
+<!-- Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto. -->
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
@@ -80,8 +82,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <h4>Motivações:</h4>
 <ul>
- <li>Trabalha com informação, precisa estar sempre atualizada rapidamente.</li>
- <li>Gostaria de ter um  aplicativo no smartphone, por ser fácil de levar consigo a todo lugar.</li>
+ <li>Trabalha com informação, precisa estar sempre atualizada rapidamente e em qualquer lugar.</li>
+ <li>Gostaria de ter uma conta no applicativo, para conseguir salvar as notícias.</li>
  <li>Seria útil ter um local com várias notícias sobre o futebol, por ser ótimo para visitar e relembrar.</li>
 </ul>
  
@@ -178,6 +180,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 | Eu, José Antônio, como usuário do aplicativo, | quero acompanhar as notícias mais recentes sobre futebol | para me informar e comentar com meu neto. |
 | Eu, Gerson Silva, como usuário do aplicativo, | quero verificar o resultado dos jogos e o desempenho de cada time | para saber quais times têm mais chance de vencer os próximos jogos. |
 | Eu, Rafaela Oliveira, como usuária do aplicativo | preciso ter a fonte de cada notícia que encontro | para confiar e usar em meu trabalho sem receio. |
+| Eu, Rafaela Oliveira, como usuária do aplicativo | gostaria de conseguir criar uma conta no aplicativo | para conseguir salvar as notícias que desejo. |
 | Eu, Rafaela Oliveira, como usuária do aplicativo | quero ter divisões sobre cada tópico entre as notícias | para encontrar o que desejo mais rápido. | 
 | Eu, Gustavo Cerati, como usuário do aplicativo | quero fazer uma pesquisa que não tenha anúncios e que não seja lenta | para conseguir ter uma melhor experiência em meu smartphone. |
 | Eu, Elaine Santos, como usuária do aplicativo | quero deixar fixado na tela inicial ou conseguir baixar o app | para ser prático e gastar menos dados de internet. |
