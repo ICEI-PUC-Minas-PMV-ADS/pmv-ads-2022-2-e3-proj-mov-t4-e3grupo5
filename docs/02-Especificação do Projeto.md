@@ -215,11 +215,21 @@ Em nossas consideração sobre as dificuldades que possam ser encontradas, é es
 
 <!-- Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias. -->
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Efetuar login
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+O processo denominado "Efetuar Login" começa com o acesso ao aplicativo visualizando a tela de inicialização. Nesta tela, o usuário deve escolher entre inserir seus dados para entrar, cadastrar usuário ou efetuar a troca de senha. Caso o usuário escolha a primeira opção descrita e seus dados forem identificados pelo banco de dados, o acesso à aplicação é concedido, e é inciado com a visualização do dashboard. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+Caso a senha esteja incorreta, o banco de dados não valida e ele continua na mesma tela. Seria descrito uma mensagem de erro. Além disso, se caso o e-mail não estiver cadastrado, a apicação também mostrará uma mensagem de erro.
+
+No cenário da segunda opção, o usuário será direcionado até a tela de cadastro e irá inserir seus dados de Nome, E-mail e senha, e então o banco de dados irá salvar as informações.
+
+No cenário da terceira opção, o usuário será direcionado até a tela de troca de senha e deverá digitar seu e-mail. Se o e-mail não estiver cadastrado, irá aparecer uma mensagem de erro, e caso o e-mail esteja cadastrado, ele receberá um PIN para preencher o campo. Se estiver errado, aparecerá mensagem de erro e se estiver correto ele será direcionado até a tela para criar sua nova senha, sendo assim, o banco de dados irá atualizar, e o usuário irá até a tela de login novamente.
+
+<img src="/docs/img/Processo1.drawio.png"/>
+
+<!-- Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+
+![Processo 1](img/02-bpmn-proc1.png) -->
 
 ### Processo 2 – NOME DO PROCESSO
 
