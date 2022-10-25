@@ -12,16 +12,16 @@ Fut+ é um aplicativo de notícias esportivas com foco em futebol, com o objetiv
 
 ## Integrantes
 
-* Gabriel Eduardo Palhares
-* Gabriel Souza Castro
-* Hector Florenca da Silva Mendes
-* Jéssica Raíssa Araújo Oliveira Queiroz Lopes
-* Jonatas Tonin Coelho
-* Julia Berto Rosa
+- Gabriel Eduardo Palhares
+- Gabriel Souza Castro
+- Hector Florenca da Silva Mendes
+- Raíssa Araújo Oliveira Queiroz Lopes
+- Jonatas Tonin Coelho
+- Julia Berto Rosa
 
 ## Orientador
 
-* Mateus Curcino de Lima
+- Mateus Curcino de Lima
 
 ## Instruções de utilização
 
