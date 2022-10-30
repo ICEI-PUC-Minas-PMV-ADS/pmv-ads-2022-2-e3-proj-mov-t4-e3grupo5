@@ -231,40 +231,106 @@ No cenário da terceira opção, o usuário será direcionado até a tela de tro
 
 ![Processo 1](img/02-bpmn-proc1.png) -->
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Visualizar notícias, tela principal
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Neste processo, o primeiro ao abrir o aplicativo, o usuário pode visualizar as notícias por meio da manchete e, se desejar, abri-la.
 
-![Processo 2](img/02-bpmn-proc2.png)
+<img src="/docs/img/visualizarNoticias.drawio.png"/>
 
+### Processo 3- Visualizar placar
+
+Neste processo, o usuário deve selecionar o dia, e assim aparecerá os placares de acordo com o dia selecionado.
+
+<img src="/docs/img/visualizarPlacar.drawio.png"/>
+
+### Processo 4 - Favoritar notícia
+
+Neste processo, após o usuário selecionar a estrela que pode ser vista tanto sem abrir quanto abrindo a notícia, o banco de dados armazena a notícia, que irá aparecer na tela "favoritos".
+
+<img src="/docs/img/favoritarNoticia.drawio.png"/>
+
+### Processo 5 - Visualizar ligas esportivas
+
+Neste processo, o usuário deve selecionar a liga que ele tem interesse. Após isso, ele poderá visualizar as notícias mais recentes da liga escolhida.
+
+<img src="/docs/img/visualizarLigas.drawio.png"/>
+
+### Processo 6 - Pesquisar notícias
+
+Neste processo, o usuário digita na barra de pesquisa o que ele busca, e então, o sistema busca as notícias de acordo com as palavras-chave utilizadas.
+
+<img src="/docs/img/pesquisarNoticia.drawio.png"/>
+
+### Processo 7 - Editar perfil
+
+Neste processo, o usuário poderá ver a situacão atual sobre seu nome, times favoritos e ligas e, caso queira, poderá editar. O sistema irá armazenar as novas informações e atualizar no aplicativo.
+
+<img src="/docs/img/editarPerfil.drawio.png"/>
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Para análise e monitoramento do desempenho do negócio, com o intuito de auxiliar na tomada de decisões e planejamentos estratégicos, os seguintes indicadores foram definidos:
+
+| Indicador             | Objetivos            | Descrição                  | Cálculo            | Fonte de Dados          | Perspectiva                   |
+|-----------------------|----------------------|----------------------------|--------------------|-------------------------|-------------------------------|
+| Avaliação na Play Store e Apple Store |	Verificar o desempenho |	Avaliae a média das avaliações dadas pelos usuários que baixaram o aplicativo |	Número de estrelas	Play Store e Apple Store	| Qualidade do produto |
+| Usuários cadastrados | Acompanhar a quantidade de cadastros efetuados no aplicativo  | Avaliar a taxa de cadastros feitos no aplicativo em relação a quantidade de download | Cadastros efetuados / downloads | Apple Store e Play Store | Aumentar a quantidade de usuários que experimentam o aplicativo |
+| Usuários ativos	| Criar estratégias de retenção a partir da quantidade de usuários que utilizam o aplicativo |	Avaliar a diferença de número entre usuários que utilizam o aplicativo e que não utilizam	| Usuários que acessaram o aplicativo no último mês / usuários cadastrados |	Banco de dados |	Aumentar a quantidade de usuários ativos |
+| Palavras pesquisadas | Identificar o que desperta interesse nos usuários | Avaliar quais são as palavras mais pesquisadas pelos usuários no aplicativo | percentual de palavras mais pesquisadas / palavras menos pesquisadas | Banco de dados | Melhorar a interface de acordo com o que o usuário busca |
+| Redes sociais do projeto | Verificar sugestão de melhorias, elogios e problemas ocorridos | número de reclamações / número de elogios | Instagram, Twitter | Aumentar o interesse do usuário no projeto |
+
+
+<!-- Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
 Usar o seguinte modelo: 
 
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. -->
 
 ## Requisitos
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. 
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+A técnica MoSCoW foi aplicada para priorização dos requsitos:
+
+Must Have (Tenho que fazer)
+Should Have (Devo fazer)
+Could Have (Poderia fazer)
+Won’t Have (Não vou fazer)
+
+Nesse sentido a ordem de importância das tarefas vai seguindo uma ordem decrescente, em que "Must Have" são as tarefas mais relevantes e as "Won’t Have" são tarefas menos relevantes.
+
+<-- As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada. -->
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deverá permitir a criação de um login com e-mail e senha ao usuário. | ALTA | 
+|RF-002| O aplicativo deve fornecer uma opção de redefinição de senha.   | MÉDIA |
+|RF-003| O aplicativo deverá ter uma tela inicial com as principais notícias sobre futebol. | ALTA |
+|RF-004| As notícias deverão ter uma fonte de qual jornalista/jornal publicou | MÉDIA |
+|RF-005| O aplicativo deverá disponibilizar no perfil do usuário os seus times e ligas favoritas | MÉDIA |
+|RF-006| O aplicativo deve permitir fazer o logout | ALTA |
+|RF-007| O aplicativo deverá ter a opção de "favoritar" notícia | MÉDIA |
+|RF-008| O aplicativo deverá ter uma barra de pesquisa | MÉDIA |
+|RF-009| O aplicativo deverá enviar notificações sobre as notícias aos usuários | BAIXA |
+|RF-010| O aplicativo deverá ter as sessões de ligas e placar | ALTA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Deverá ser disponibilizado em um ambiente acessível publicamente na Internet. | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 8s. |  BAIXA |
+|RNF-003| O aplicativo deve ser responsivo para se adaptar a diversos dispositivos móveis. | ALTA |
+|RNF-004| O aplicativo não deve aceitar propagandas. | ALTA |
+|RNF-005| O sistema disponibilizará às funcionalidades ao usuário de maneira simples e intuitiva, com foco na UX. | MÉDIA |
+|RNF-006| O sistema deve ser implementado utilizando React Native. | ALTA |
+|RNF-007| A persistência dos dados será feita no banco MySQL. | MÉDIA |
+|RNF-008| O aplicativo deve ser compatível com as versões mais recentes do sistema Android. | MÉDIA |
+|RNF-009| O aplicativo deve oferecer suporte a dispositivos IOS. | BAIXA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+<!-- Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -277,7 +343,7 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
   dispositivos iOS e Android).
 Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+todos os aspectos capturados nas Histórias de Usuário foram cobertos. -->
 
 ## Restrições
 
@@ -285,14 +351,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até 07/12/2022.         |
+|02| O aplicativo funcionará apenas com conexão à internet.    |
+|03| Proibida a terceirização de desenvolvimento do sistema em sua totalidade ou de módulos isolados. |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+<!-- Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/) -->
 
 ## Diagrama de Casos de Uso
 
