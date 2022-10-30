@@ -266,6 +266,7 @@ Neste processo, o usuário digita na barra de pesquisa o que ele busca, e então
 Neste processo, o usuário poderá ver a situacão atual sobre seu nome, times favoritos e ligas e, caso queira, poderá editar. O sistema irá armazenar as novas informações e atualizar no aplicativo.
 
 <img src="/docs/img/editarPerfil.drawio.png"/>
+
 ## Indicadores de Desempenho
 
 Para análise e monitoramento do desempenho do negócio, com o intuito de auxiliar na tomada de decisões e planejamentos estratégicos, os seguintes indicadores foram definidos:
